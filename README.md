@@ -2,12 +2,4 @@
 
 # 下载
 [![Download](https://img.shields.io/badge/Download-v4.0-blue?logo=github&style=for-the-badge)](https://github.com/webcat-hue/webcarr/releases/tag/v4.0)
-
-<a href="http://webcat.top">
-<div style="display:inline-flex;border-radius:4px;overflow:hidden;font-size:13px;">
-<span style="display:flex;align-items:center;background:#525252;color:#fff;padding:5px 9px;">
-<img src="https://ht.wfdown.com/uploads/20260306/366716c51aa2f6dca04a62b3f6e06a0e.png" width="17" onerror="this.style.display='none'" style="margin-right:7px;">网猫
-</span>
-<span style="background:#0277d4;color:#fff;padding:5px 10px;">V4.0</span>
-</div>
-</a>
+[![网猫](https://img.shields.io/badge/网猫-V4.0-0078d4?labelColor=555&style=flat-square)](http://webcat.top/)
