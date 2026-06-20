@@ -2,4 +2,4 @@
 
 # 下载
 
-![Repo](https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge)
+[![Download](https://img.shields.io/badge/Download‑v4.0‑blue?logo=github&style=for-the-badge)](https://github.com/webcat-hue/webcarr/releases/tag/v4.0)
