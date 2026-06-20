@@ -4,8 +4,11 @@
 [![Download](https://img.shields.io/badge/Download-v4.0-blue?logo=github&style=for-the-badge)](https://github.com/webcat-hue/webcarr/releases/tag/v4.0)
 
 <a href="http://webcat.top">
-<span style="display:inline-flex;align-items:center;background:#555;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;">
-<img src="https://ht.wfdown.com/uploads/20260306/366716c51aa2f6dca04a62b3f6e06a0e.png" width="16" onerror="this.style.display='none'" style="margin-right:6px;">webcat
+<div style="display:inline-flex;">
+<span style="display:flex;align-items:center;background:#525252;color:#ffffff;padding:5px 9px;border-radius:4px 0 0 4px;font-size:13px;">
+<img src="https://ht.wfdown.com/uploads/20260306/366716c51aa2f6dca04a62b3f6e06a0e.png" width="17" onerror="this.style.display='none'" style="margin-right:7px;vertical-align:middle;">网猫
 </span>
-<span style="background:#0078d4;color:#fff;padding:2px 8px;border-radius:0 3px 3px 0;font-size:11px;">V4.0</span>
+<span style="background:#0277d4;color:#ffffff;padding:5px 10px;border-radius:0 4px 4px 0;font-size:13px;">V4.0
+</span>
+</div>
 </a>
