@@ -4,3 +4,5 @@
 [![Download](https://img.shields.io/badge/GitHub-v4.0-blue?logo=github&style=for-the-badge)](https://github.com/webcat-hue/webcarr/releases/tag/v4.0)
 
 [![网猫](https://img.shields.io/badge/webcat-V4.0-0078d4?labelColor=555&style=flat-square)](http://webcat.top/)
+
+[![网猫](https://img.shields.io/badge/codeberg-V4.0-0078d4?labelColor=555&style=flat-square)](https://codeberg.org/webcat_dd/webcatrr.git)
