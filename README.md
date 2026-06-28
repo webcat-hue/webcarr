@@ -6,3 +6,5 @@
 [![网猫](https://img.shields.io/badge/webcat-V4.0-0078d4?labelColor=555&style=flat-square)](http://webcat.top/)
 
 [![网猫](https://img.shields.io/badge/codeberg-V4.0-0078d4?labelColor=555&style=flat-square)](https://codeberg.org/webcat_dd/webcatrr.git)
+
+ Codeberg暂时无法使用
